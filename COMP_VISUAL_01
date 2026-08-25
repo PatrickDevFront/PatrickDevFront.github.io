@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Introdução à Disciplina</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f6f8;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        header h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 17px;
+            opacity: 0.9;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .card {
+            background-color: white;
+            padding: 30px;
+            margin-bottom: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+        }
+
+        .card h2 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 24px;
+        }
+
+        .card p {
+            font-size: 17px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 25px;
+            margin-top: 40px;
+            background-color: #2c3e50;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Introdução à Disciplina</h1>
+        <p>Minhas expectativas e aprendizados</p>
+    </header>
+
+    <main>
+
+        <section class="card">
+            <h2>O que eu achava que veria na disciplina?</h2>
+
+            <p>
+                Antes de começar a disciplina, eu imaginava que estudaria
+                principalmente conteúdos relacionados ao tema apresentado,
+                buscando compreender seus principais conceitos e aplicações.
+            </p>
+        </section>
+
+        <section class="card">
+            <h2>O que eu entendi que estudaremos?</h2>
+
+            <p>
+                Ao conhecer melhor a proposta da disciplina, entendi que iremos
+                estudar diferentes conceitos, conteúdos e perspectivas
+                relacionados ao tema. Também espero compreender como esses
+                conhecimentos podem ser aplicados na prática e contribuir para
+                minha formação.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Blog da Disciplina</p>
+    </footer>
+
+</body>
+</html>
