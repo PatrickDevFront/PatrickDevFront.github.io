@@ -1,4 +1,4 @@
-# Quarto Post
+# 4° Post
 **15/09/2026**
 ## DLSS 5: O futuro dos gráficos chegou?
 
